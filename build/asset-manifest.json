@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/RestauranteApp-React/static/css/main.76fd3c69.css",
+    "main.js": "/RestauranteApp-React/static/js/main.b95aa2f7.js",
+    "static/media/fa-solid-900.ttf": "/RestauranteApp-React/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/fa-brands-400.ttf": "/RestauranteApp-React/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/RestauranteApp-React/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/RestauranteApp-React/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/fa-regular-400.ttf": "/RestauranteApp-React/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/Services3.png": "/RestauranteApp-React/static/media/Services3.a3f41d131b1205050c31.png",
+    "static/media/Services1.png": "/RestauranteApp-React/static/media/Services1.10642008973f48beb518.png",
+    "static/media/fa-regular-400.woff2": "/RestauranteApp-React/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/Services2.png": "/RestauranteApp-React/static/media/Services2.6f4c447b4be12136b9be.png",
+    "static/media/fa-v4compatibility.ttf": "/RestauranteApp-React/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/RestauranteApp-React/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/RestauranteApp-React/index.html",
+    "main.76fd3c69.css.map": "/RestauranteApp-React/static/css/main.76fd3c69.css.map",
+    "main.b95aa2f7.js.map": "/RestauranteApp-React/static/js/main.b95aa2f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76fd3c69.css",
+    "static/js/main.b95aa2f7.js"
+  ]
+}
